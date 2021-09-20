@@ -15,3 +15,5 @@ ReactDOM.render(
 // to log results (for example: reportWebVitals(console.log))
 // or send to an analytics endpoint. Learn more: https://bit.ly/CRA-vitals
 //reportWebVitals();
+
+//https://openclassrooms.com/fr/courses/7008001-debutez-avec-react/7137137-revenez-sur-vos-acquis
